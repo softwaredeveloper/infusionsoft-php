@@ -24,7 +24,7 @@ This package is compatible with PHP 5.3.3 and higher. It uses Guzzle 3.8.* as th
 
 The client ID and secret are the key and secret for your OAuth2 application found at the [Infusionsoft Developers](https://developer.infusionsoft.com/apps/mykeys) website.
 
-If you need an infusionsoft programmer contact https://www.phpfreelanceprogrammer.com/infusionsoft-api.html
+If you need an infusionsoft programmer contact [infusionsoft freelance developer](https://www.phpfreelanceprogrammer.com/infusionsoft-api.html)
 
 ```php
 require_once 'vendor/autoload.php';
